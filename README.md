@@ -1,7 +1,7 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 
 <!--
 **LindhCode/LindhCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
