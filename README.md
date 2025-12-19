@@ -1,7 +1,7 @@
 # LindhCode
 ### 🏫Student at Chalmers University of Technology
-![]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5a3oxOW00dnpxcjF1bzR6Y2dtMXhhMXZlbjhtcTJ5OTBpbnkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwAZ6dvvvaTtdI8SD5/giphy.gif))
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5a3oxOW00dnpxcjF1bzR6Y2dtMXhhMXZlbjhtcTJ5OTBpbnkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="40" height="40" />
+![]((https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5a3oxOW00dnpxcjF1bzR6Y2dtMXhhMXZlbjhtcTJ5OTBpbnkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwAZ6dvvvaTtdI8SD5/giphy.gif))
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d5a3oxOW00dnpxcjF1bzR6Y2dtMXhhMXZlbjhtcTJ5OTBpbnkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="40" height="40" />
 
 
 <!--
